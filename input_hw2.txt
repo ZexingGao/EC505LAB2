@@ -1,0 +1,636 @@
+632
+Concord	MA	01742    
+Gorham	ME	04038    
+Upper Darby	PA	19082    
+Wilkes-Barre	PA	18705    
+Starford	PA	15777    
+Guilford	ME	04443    
+Plainfield	MA	01070    
+Port Royal	PA	17082    
+Conyngham	PA	18219    
+Aliquippa	PA	15001    
+Farmington	NH	03835    
+Pemaquid	ME	04558    
+Trafford	PA	15085    
+Lindenhurst	NY	11757    
+Cecil	PA	15321    
+Buena	NJ	08310    
+APO New York	NY	09038    
+APO New York	NY	09672    
+Plainview	NY	11803    
+Brooklyn	NY	11256    
+Poyntelle	PA	18454    
+Waynesboro	PA	17268    
+Stittville	NY	13469    
+Thompson	PA	18465    
+West Nyack	NY	10994    
+Phelps	NY	14532    
+Beecher Falls	VT	05902    
+Dillsburg	PA	17019    
+Binghamton	NY	13903    
+Ithaca	NY	14850    
+Allenwood	PA	17810    
+Rochester	NY	14611    
+Callery	PA	16024    
+Windham	ME	04062    
+Ilion	NY	13357    
+Brookfield	CT	06804    
+Stillwater	PA	17878    
+Fineview	NY	13640    
+Staffordville	CT	06077    
+Ambler	PA	19002    
+Martins Creek	PA	18063    
+New Ringgold	PA	17960    
+Frenchville	PA	16836    
+Truro	MA	02666    
+Merrimack	NH	03054    
+Jersey City	NJ	07303    
+Granville	NY	12832    
+Gowanda	NY	14070    
+Phillipsport	NY	12769    
+New York	NY	10005    
+Homer City	PA	15748    
+Jamaica	NY	11429    
+Chazy	NY	12921    
+Charlemont	MA	01346    
+Hartford	CT	06161    
+Saxonburg	PA	16056    
+Latham	NY	12110    
+Corning	NY	14831    
+New York	NY	10277    
+Needham Heights	MA	02194    
+Scotland	PA	17254    
+Pittsburgh	PA	15234    
+Clarksburg	NJ	08510    
+Hector	NY	14841    
+Otter Creek	ME	04665    
+Three Mile Bay	NY	13693    
+Medway	ME	04460    
+Jamaica	NY	11441    
+Ono	PA	17077    
+Pleasantville	NY	10570    
+Williamsburg	MA	01096    
+Batavia	NY	14020    
+APO New York	NY	09227    
+Boonville	NY	13309    
+Dry Run	PA	17219    
+Philadelphia	PA	19131    
+Kanona	NY	14856    
+Mildred	PA	18632    
+Bethlehem	PA	18015    
+East Providence	RI	02914    
+Appleton	NY	14008    
+Boston	MA	02114    
+Syosset	NY	11775    
+White	PA	15490    
+Far Rockaway	NY	11690    
+Diamond Point	NY	12824    
+Northumberland	PA	17857    
+Ringgold	PA	15770    
+Painted Post	NY	14870    
+Morristown	NY	13664    
+Pequabuck	CT	06781    
+Watertown	NY	13603    
+Philadelphia	PA	19108    
+Lawrenceville	NY	12949    
+Duke Center	PA	16729    
+Paxtonville	PA	17861    
+Ellsworth	PA	15331    
+North Lawrence	NY	12938    
+Hartford	CT	06110    
+Butler	PA	16001    
+Norwalk	CT	06852    
+Hartford	CT	06152    
+State College	PA	16805    
+Seal Cove	ME	04674    
+Perth Amboy	NJ	08861    
+Albany	NY	12242    
+New York	NY	10009    
+Minturn	ME	04659    
+Boston	MA	02124    
+Wayne	NY	14893    
+Wellsburg	NY	14894    
+Wellsville	NY	14895    
+Fair Haven	VT	05731    
+Keasbey	NJ	08832    
+Eagle Lake	ME	04739    
+Ashley Falls	MA	01222    
+Elmira	NY	14901    
+Vintondale	PA	15961    
+Jamaica	NY	11400    
+Emmaus	PA	18098    
+Erie	PA	16503    
+Sloatsburg	NY	10974    
+Westtown	NY	10998    
+Center Sandwich	NH	03227    
+Atlasburg	PA	15004    
+Goshen	NY	10924    
+Himrod	NY	14842    
+Starlight	PA	18461    
+Freehold	NY	12431    
+South Harpswell	ME	04079    
+Manchester	CT	06040    
+Windham	NY	12496    
+Hackensack	NJ	07603    
+Landisville	PA	17538    
+Ickesburg	PA	17037    
+Riverside	RI	02915    
+Lincroft	NJ	07738    
+Pine City	NY	14871    
+Worcester	MA	01607    
+Shunk	PA	17768    
+Erie	PA	16533    
+Jewett City	CT	06351    
+Keansburg	NJ	07734    
+Frankfort	NY	13340    
+Fort Kent	ME	04743    
+Whiting	ME	04691    
+Pittston	PA	18644    
+Lake Hill	NY	12448    
+Cranston	RI	02910    
+Piscataway	NJ	08855    
+Bridgeport	CT	06607    
+Surry	ME	04684    
+Elizabeth	PA	15037    
+Brooklyn	NY	11238    
+Mapleville	RI	02839    
+Mc Keesport	PA	15132    
+Ringwood	NJ	07456    
+Saranac Lake	NY	12983    
+North Collins	NY	14111    
+Ronco	PA	15476    
+APO New York	NY	09282    
+Yukon	PA	15698    
+South Kent	CT	06785    
+Pluckemin	NJ	07978    
+APO New York	NY	09659    
+South Kortright	NY	13842    
+Providence	RI	02908    
+Trenton	NJ	08628    
+Pavilion	NY	14525    
+Akron	NY	14001    
+Berkshire	NY	13736    
+Rutherford	NJ	07072    
+Westerly	CT	06379    
+Milanville	PA	18443    
+Smokerun	PA	16681    
+Scarborough	ME	04074    
+Poultney	VT	05741    
+Bronx	NY	10474    
+Star Junction	PA	15482    
+Colton	NY	13625    
+Kylertown	PA	16847    
+Batavia	NY	14021    
+East Brookfield	MA	01515    
+Willow Grove	PA	19090    
+Bangall	NY	12506    
+Slate Hill	NY	10973    
+Uledi	PA	15484    
+Glen Rock	NJ	07452    
+Mooers	NY	12958    
+Indiana	PA	15701    
+Clarence Center	NY	14032    
+FPO New York	NY	09562    
+Port Byron	NY	13140    
+Ardmore	PA	19003    
+Galilee	PA	18423    
+Turkey City	PA	16058    
+High Bridge	NJ	08829    
+Barrytown	NY	12507    
+Three Rivers	MA	01080    
+Dayton	NY	14041    
+Seward	PA	15954    
+Constantia	NY	13044    
+Lynn	MA	01905    
+Great Meadows	NJ	07838    
+East Poland	ME	04230    
+Parker	PA	16049    
+Spotswood	NJ	08884    
+Dorset	VT	05251    
+Gray	ME	04039    
+Lavallette	NJ	08735    
+East Orland	ME	04431    
+Toms River	NJ	08756    
+Sea Isle City	NJ	08243    
+Seaside Heights	NJ	08751    
+Forestville	NY	14062    
+Coventry	VT	05825    
+Penns Grove	NJ	08069    
+Albany	NY	12246    
+Cossayuna	NY	12823    
+Imlaystown	NJ	08526    
+East Andover	ME	04226    
+Gilbertville	MA	01031    
+Uxbridge	MA	01569    
+Harrisburg	PA	17112    
+Lakemont	NY	14857    
+Pittsburgh	PA	15227    
+South Carver	MA	02366    
+Modena	NY	12548    
+Andover	MA	01810    
+APO New York	NY	09358    
+New York	NY	10199    
+Tresckow	PA	18254    
+Flushing	NY	11386    
+Seanor	PA	15953    
+Somerville	MA	02144    
+Nicholville	NY	12965    
+Thomaston	ME	04861    
+Carrolltown	PA	15722    
+Wyckoff	NJ	07481    
+Westfield	VT	05874    
+Howells	NY	10932    
+Sharon	PA	16148    
+Lily Dale	NY	14752    
+Lawrence	MA	01841    
+Richville	NY	13681    
+Glen Cove	NY	11542    
+Syracuse	NY	13207    
+Adams Center	NY	13606    
+Lowell	MA	01850    
+Tyler Hill	PA	18469    
+Lowell	MA	01852    
+Wilmore	PA	15962    
+Pittsfield	VT	05762    
+New York	NY	10177    
+North Bend	PA	17738    
+North Chelmsford	MA	01863    
+Birmingham	NJ	08011    
+Amity	PA	15311    
+Pinehurst	MA	01866    
+Carnegie	PA	15106    
+Trenton	NJ	08603    
+Blue Bell	PA	19424    
+Mifflinburg	PA	17844    
+Billings	NY	12510    
+Cornwall	PA	17016    
+Wilmington	MA	01887    
+Andover	MA	01812    
+Middlesex Essex Gmf	MA	01889    
+Lancaster	NH	03584    
+Rebersburg	PA	16872    
+Valier	PA	15780    
+Long Island City	NY	11105    
+Carbondale	PA	18407    
+Lanesville	NY	12450    
+Whitesboro	NJ	08252    
+Eliot	ME	03903    
+Staatsburg	NY	12580    
+West Newbury	MA	01985    
+Ayer	MA	01433    
+Levittown	PA	19059    
+APO New York	NY	09452    
+Canton	MA	02021    
+Glassport	PA	15045    
+Buffalo	NY	14260    
+Schnecksville	PA	18078    
+Hartford	NY	12838    
+Chamberlain	ME	04541    
+Rouseville	PA	16344    
+Voluntown	CT	06384    
+Niagara Falls	NY	14304    
+Winchester	NH	03470    
+Rochester	PA	15074    
+Littleton	MA	01460    
+APO New York	NY	09107    
+Manorville	NY	11949    
+Knowlesville	NY	14479    
+Hartford	CT	06160    
+Flushing	NY	11355    
+Medway	MA	02053    
+Danville	VT	05828    
+Leicester	MA	01524    
+Ossipee	NH	03864    
+Shoreham	VT	05770    
+Riverhead	NY	11901    
+Loch Sheldrake	NY	12759    
+Norwood	MA	02062    
+Lumberton	NJ	08048    
+Scituate	MA	02066    
+Madisonburg	PA	16852    
+Russell	NY	13684    
+Syracuse	NY	13215    
+Woolwich	ME	04579    
+Albany	NY	12209    
+Woodstock	NY	12498    
+Wrentham	MA	02093    
+Middlesex Essex Gmf	MA	01813    
+Thorofare	NJ	08086    
+Saint Michael	PA	15951    
+Massapequa Park	NY	11762    
+Schooleys Mountain	NJ	07870    
+Hartford	CT	06114    
+Maple Shade	NJ	08052    
+Oxbow	ME	04764    
+Harmony	RI	02829    
+Laurel	NY	11948    
+Concord	NH	03301    
+Witherbee	NY	12998    
+Pleasant Hall	PA	17246    
+Edison	NJ	08837    
+Kennebunkport	ME	04046    
+FPO New York	NY	09522    
+Colts Neck	NJ	07722    
+Interlaken	NY	14847    
+Leverett	MA	01054    
+Valley View	PA	17983    
+Dysart	PA	16636    
+Heislerville	NJ	08324    
+Penn Run	PA	15765    
+New Gloucester	ME	04260    
+Queen	PA	16670    
+Stockholm	ME	04783    
+Shrewsbury	NJ	07702    
+Forestdale	MA	02644    
+King Ferry	NY	13081    
+West Groton	MA	01472    
+Groton	VT	05046    
+West Point	NY	10996    
+Trenton	NJ	08619    
+Oxford	NJ	07863    
+Waterbury	CT	06702    
+Chalkhill	PA	15421    
+Southold	NY	11971    
+Newcomb	NY	12852    
+Monson	ME	04464    
+Wilkes-Barre	PA	18709    
+Cambridge	MA	02140    
+Manville	NJ	08835    
+Cambridge	MA	02142    
+Aldenville	PA	18401    
+Hilton	NY	14468    
+Salamanca	NY	14779    
+Brookline	MA	02146    
+Whippleville	NY	12995    
+Cementon	NY	12415    
+Everett	MA	02149    
+Lee	MA	01238    
+APO New York	NY	09069    
+Milan	PA	18831    
+Apulia Station	NY	13020    
+Westbrook	CT	06498    
+Saint David	ME	04773    
+Lynn	MA	01903    
+Sharon	CT	06069    
+Deposit	NY	13754    
+Helmuth	NY	14079    
+Newtonville	MA	02160    
+Newton Highlands	MA	02161    
+Rockfall	CT	06481    
+East Boothbay	ME	04544    
+Phillipsburg	NJ	08865    
+Willow	NY	12495    
+Marianna	PA	15345    
+Valley Forge	PA	19494    
+Malvern	PA	19355    
+Monroe	ME	04951    
+Trenton	NJ	08605    
+Boswell	PA	15546    
+Buffalo	NY	14216    
+Hartford	CT	06104    
+Buskirk	NY	12028    
+Howell	NJ	07731    
+Ellington	CT	06029    
+East Brady	PA	16028    
+Vowinckel	PA	16260    
+Waynesburg	PA	15370    
+Stoneham	MA	02180    
+Harrisville	RI	02830    
+Milbridge	ME	04658    
+New Derry	PA	15671    
+Milton	MA	02186    
+East Berlin	PA	17316    
+Somerset	NJ	08873    
+Olcott	NY	14126    
+Pittsford	NY	14534    
+Albany	NY	12236    
+Warwick	NY	10990    
+Morristown	NJ	07962    
+Burlingham	NY	12722    
+Central Islip	NY	11722    
+Hartford	CT	06118    
+Boston	MA	02201    
+Fort Covington	NY	12937    
+Gettysburg	PA	17325    
+Doylestown	PA	18901    
+Boston	MA	02205    
+New York	NY	10178    
+Norfolk	NY	13667    
+Congers	NY	10920    
+Saxton	PA	16678    
+Petersburg	PA	16669    
+Robertsdale	PA	16674    
+Thompsonville	NY	12784    
+FPO New York	NY	09529    
+Eden	NY	14057    
+Rosemont	NJ	08556    
+Rochester	NY	14624    
+Waterport	NY	14571    
+Plainsboro	NJ	08536    
+Melville	NY	11747    
+Camden	NJ	08101    
+Dennis	MA	02638    
+Waltham	MA	02254    
+Fisher	PA	16225    
+Harford Mills	NY	13785    
+Estell Manor	NJ	08319    
+Plainfield	NH	03781    
+Foster	RI	02825    
+Fawn Grove	PA	17321    
+APO New York	NY	09359    
+Wilmerding	PA	15148    
+Whallonsburg	NY	12994    
+Mount Tremper	NY	12457    
+East Vandergrift	PA	15629    
+Brooklyn	NY	11234    
+Beachwood	NJ	08722    
+Gap	PA	17527    
+Chester	VT	05143    
+Fairhope	PA	15538    
+Bowers	PA	19511    
+Muir	PA	17957    
+West New York	NJ	07093    
+Brooklyn	NY	11252    
+Muncy	PA	17756    
+Treadwell	NY	13846    
+Little Silver	NJ	07739    
+Mottville	NY	13119    
+Lawn	PA	17041    
+Little York	NY	13087    
+Chicopee	MA	01021    
+Sheffield	VT	05866    
+Mount Holly	VT	05758    
+Germantown	NY	12526    
+Erie	PA	16508    
+Bristol	PA	19007    
+APO New York	NY	09228    
+Cedar Brook	NJ	08018    
+Philadelphia	PA	19185    
+Sanford	ME	04073    
+Elmwood	MA	02337    
+Conesus	NY	14435    
+Moriah	NY	12960    
+Bemus Point	NY	14712    
+Strong	ME	04983    
+Bridgewater	NY	13313    
+Olanta	PA	16863    
+Palisades Park	NJ	07650    
+Jaffrey	NH	03452    
+Acme	PA	15610    
+Binghamton	NY	13904    
+Burlington	VT	05403    
+Newport	NH	03773    
+Massapequa	NY	11758    
+Reno	PA	16343    
+Porter	ME	04068    
+Meridale	NY	13806    
+Kennebunk	ME	04043    
+Oakham	MA	01068    
+Newmanstown	PA	17073    
+West Boxford	MA	01885    
+South Hero	VT	05486    
+Ursina	PA	15485    
+Hereford	PA	18056    
+Old Chatham	NY	12136    
+Big Flats	NY	14814    
+Pottersville	NY	12860    
+Middle Grove	NY	12850    
+Middletown	NY	10943    
+Wales	MA	01081    
+Braintree	MA	02184    
+Rochester	NY	14603    
+Bennington	VT	05201    
+Boston	MA	02120    
+Westfield	MA	01085    
+Fredericksburg	PA	17026    
+Uncasville	CT	06382    
+West Springfield	MA	01089    
+Philadelphia	PA	19149    
+Anita	PA	15711    
+Reading	PA	19609    
+Palenville	NY	12463    
+Clarksville	NY	12041    
+Shelocta	PA	15774    
+North Quincy	MA	02171    
+Worthington	MA	01098    
+Topton	PA	19562    
+West Warwick	RI	02893    
+Nantucket	MA	02554    
+APO New York	NY	09131    
+Florence	VT	05744    
+APO New York	NY	09152    
+Somerset	PA	15501    
+Meadville	PA	16388    
+Califon	NJ	07830    
+Vandergrift	PA	15690    
+Williston	VT	05495    
+APO New York	NY	09144    
+West Henrietta	NY	14586    
+Damascus	PA	18415    
+Archbald	PA	18403    
+Fleischmanns	NY	12430    
+Loretto	PA	15940    
+Orchard Park	NY	14127    
+Holland	NY	14080    
+Feura Bush	NY	12067    
+Perry	NY	14530    
+Mont Vernon	NH	03057    
+Kittanning	PA	16201    
+Mill Creek	PA	17060    
+Raymond	NH	03077    
+Pine Beach	NJ	08741    
+Meredith	NH	03253    
+Summerville	PA	15864    
+Hatfield	MA	01038    
+Stockbridge	MA	01262    
+Shirley Center	MA	01465    
+Rock Tavern	NY	12575    
+Philadelphia	PA	19171    
+Cherry Plain	NY	12040    
+Pittsburgh	PA	15285    
+Peterborough	NH	03460    
+Pulaski	PA	16143    
+Croton Falls	NY	10519    
+Princeton	NJ	08542    
+Chocorua	NH	03817    
+Boston	MA	02293    
+Center Harbor	NH	03226    
+Florence	NJ	08518    
+Jamaica	NY	11415    
+Linwood	NY	14486    
+North Hero	VT	05474    
+Harrison	ME	04040    
+Dunstable	MA	01827    
+Mountainhome	PA	18342    
+New York	NY	10292    
+Auburn	MA	01501    
+Willow Hill	PA	17271    
+Mystic	CT	06388    
+New York	NY	10013    
+Rome	NY	13440    
+Manheim	PA	17545    
+Dumont	NJ	07628    
+Montauk	NY	11954    
+Raynham Center	MA	02768    
+Dunlevy	PA	15432    
+Saltsburg	PA	15681    
+Toms River	NJ	08755    
+Allendale	NJ	07401    
+Boston	MA	02206    
+Blue Ridge Summit	PA	17214    
+Charlton City	MA	01508    
+Far Hills	NJ	07931    
+Vineland	NJ	08360    
+Linwood	MA	01525    
+Harleigh	PA	18225    
+Providence	RI	02906    
+Tidioute	PA	16351    
+Hilltown	PA	18927    
+Lincoln	MA	01773    
+Hanover	ME	04237    
+Bala-Cynwyd	PA	19004    
+Elmwood Park	NJ	07407    
+Hickory	PA	15340    
+Saint Johnsbury Center	VT	05863    
+Far Rockaway	NY	11697    
+Oxford	MA	01540    
+East Hardwick	VT	05836    
+Scranton	PA	18504    
+Hornell	NY	14843    
+South Grafton	MA	01560    
+Delano	PA	18220    
+Winter Harbor	ME	04693    
+Elizabethville	PA	17023    
+Clarendon	PA	16313    
+Ogdensburg	NJ	07439    
+Wilkes-Barre	PA	18767    
+Belmont	NY	14813    
+Blandford	MA	01008    
+Grand Island	NY	14072    
+Albion	PA	16401    
+Rochester	MA	02770    
+Monson	MA	01057    
+Lyon Station	PA	19536    
+Hyde Park	VT	05655    
+Long Island	ME	04050    
+Brownfield	PA	15416    
+Mount Laurel	NJ	08054    
+Buffalo	NY	14233    
+Rowley	MA	01969    
+Worcester	MA	01600    
+Staten Island	NY	10314    
+Hartford	CT	06153    
+Worcester	MA	01603    
+Worcester	MA	01605    
+Shenorock	NY	10587    
+Lisbon	NY	13658    
+East Vassalboro	ME	04935    
+APO New York	NY	09693    
+New York	NY	10126    
+North Brooklin	ME	04661    
+APO New York	NY	09039    
+Claverack	NY	12513    
+Williamsburg	PA	16693    
+19536
+02184
+01881

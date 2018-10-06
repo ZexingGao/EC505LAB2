@@ -1,0 +1,20 @@
+0.000508
+
+
+Cities within 10 of 19536:
+Lyon Station PA 19536    
+
+
+Cities within 10 of 2184:
+Stoneham MA 02180    
+Braintree MA 02184    
+Milton MA 02186    
+Needham Heights MA 02194    
+
+
+Cities within 10 of 1881:
+West Boxford MA 01885    
+Wilmington MA 01887    
+Middlesex Essex Gmf MA 01889    
+size = 632
+size = 630
